@@ -1,0 +1,6 @@
+{
+  "name": "claude-pocket",
+  "owner": { "name": "arkanine1000" },
+  "description": "pocket: phone helpers for Claude Code on Termux",
+  "plugins": [{ "name": "pocket", "source": "./" }]
+}

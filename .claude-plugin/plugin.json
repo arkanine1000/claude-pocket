@@ -1,0 +1,7 @@
+{
+  "name": "pocket",
+  "version": "0.1.0",
+  "description": "Phone helpers for Claude Code on Termux: buzz when a long turn ends or a permission prompt waits, /yy yanks the last code block to the Android clipboard, /consent drafts consent for a blocked call, /dash opens a dashboard",
+  "author": { "name": "arkanine1000" },
+  "license": "MIT"
+}
